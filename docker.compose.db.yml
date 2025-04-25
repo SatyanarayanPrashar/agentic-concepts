@@ -1,0 +1,5 @@
+service:
+  qdrant:
+    image: qdrant/qdrant
+    ports:
+      - 6333:6333
